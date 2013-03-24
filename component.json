@@ -1,0 +1,11 @@
+{
+  "name": "q",
+  "repo": "virtru/q",
+  "description": "The Q promise library",
+  "version": "0.9.2",
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
