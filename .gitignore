@@ -34,3 +34,7 @@ Thumbs.db
 # Misc
 *.bak
 *.tmp
+
+# ComponentJS
+components
+build
